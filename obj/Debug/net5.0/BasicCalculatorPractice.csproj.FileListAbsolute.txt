@@ -1,0 +1,16 @@
+C:\Users\antho\repos\BasicCalculatorPractice\bin\Debug\net5.0\BasicCalculatorPractice.exe
+C:\Users\antho\repos\BasicCalculatorPractice\bin\Debug\net5.0\BasicCalculatorPractice.deps.json
+C:\Users\antho\repos\BasicCalculatorPractice\bin\Debug\net5.0\BasicCalculatorPractice.runtimeconfig.json
+C:\Users\antho\repos\BasicCalculatorPractice\bin\Debug\net5.0\BasicCalculatorPractice.runtimeconfig.dev.json
+C:\Users\antho\repos\BasicCalculatorPractice\bin\Debug\net5.0\BasicCalculatorPractice.dll
+C:\Users\antho\repos\BasicCalculatorPractice\bin\Debug\net5.0\ref\BasicCalculatorPractice.dll
+C:\Users\antho\repos\BasicCalculatorPractice\bin\Debug\net5.0\BasicCalculatorPractice.pdb
+C:\Users\antho\repos\BasicCalculatorPractice\obj\Debug\net5.0\BasicCalculatorPractice.csprojAssemblyReference.cache
+C:\Users\antho\repos\BasicCalculatorPractice\obj\Debug\net5.0\BasicCalculatorPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\repos\BasicCalculatorPractice\obj\Debug\net5.0\BasicCalculatorPractice.AssemblyInfoInputs.cache
+C:\Users\antho\repos\BasicCalculatorPractice\obj\Debug\net5.0\BasicCalculatorPractice.AssemblyInfo.cs
+C:\Users\antho\repos\BasicCalculatorPractice\obj\Debug\net5.0\BasicCalculatorPractice.csproj.CoreCompileInputs.cache
+C:\Users\antho\repos\BasicCalculatorPractice\obj\Debug\net5.0\BasicCalculatorPractice.dll
+C:\Users\antho\repos\BasicCalculatorPractice\obj\Debug\net5.0\ref\BasicCalculatorPractice.dll
+C:\Users\antho\repos\BasicCalculatorPractice\obj\Debug\net5.0\BasicCalculatorPractice.pdb
+C:\Users\antho\repos\BasicCalculatorPractice\obj\Debug\net5.0\BasicCalculatorPractice.genruntimeconfig.cache
